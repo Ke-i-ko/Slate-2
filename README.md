@@ -32,3 +32,8 @@ Documentation, including customization guides can be found in the [Wiki](https:/
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
